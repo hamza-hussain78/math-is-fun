@@ -1,0 +1,200 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-image: radial-gradient(white, rgb(186, 230, 248));
+}
+.container {
+    border: 1px solid rgb(11, 222, 250);
+    background-color: rgba(150, 200, 243, 0.568);
+    opacity: 80%;
+    height: 480px;
+    width: 55vw;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 20px;
+
+
+}
+
+.items {
+    background-image: linear-gradient(170deg, white, rgb(194, 194, 194));
+    box-shadow: 2px 2px 2px rgb(2, 2, 2);
+    border: 0.2px solid black;
+    height: 70px;
+    width: 250px;
+    position: relative;
+    margin: 0 20px;
+    
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.items:hover{
+    background-image:linear-gradient(170deg, white, rgb(241, 241, 139)) ;
+
+}
+p {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+    text-align: end;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.laststep {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;   
+}
+
+.Money{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    display: block;
+}
+.Games{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+
+}
+.Geometry{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.numbers{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.Puzzles{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.data{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.algebra{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.cal{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.phy{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.dic{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.work{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: block;
+}
+.measurement{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    display: block;
+}
+.Activities{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    display: block;
+}
+img{
+    width: 60px;
+    margin-top: -30px;
+}
+
+
+
+/* Nav bar */
+ul{
+    list-style: none;
+    background-color:white;
+    padding: 15px;
+}
+li{
+    display: inline;
+    margin: 0px 50px;
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: underline;
+    color: lightslategray;
+    
+
+}
+input{
+    width: 500px;
+    padding: 10px;
+}
+
+    
+
+
+
